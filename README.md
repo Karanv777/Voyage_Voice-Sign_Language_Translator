@@ -4,7 +4,7 @@
 
 🔗 **Live App:** [voyage-voice.streamlit.app](https://voyage-voice.streamlit.app/)
 
-🔗 **GitHub Repository:** [Karanv777/Sign_Language_Translator](https://github.com/Karanv777/Sign_Language_Translator)
+🔗 **GitHub Repository:** [Karanv777/Sign_Language_Translator](https://github.com/Karanv777/Voyage_Voice-Sign_Language_Translator)
 
 ---
 
@@ -43,8 +43,8 @@ To run this project on your local machine, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Karanv777/Sign_Language_Translator.git
-cd Sign_Language_Translator
+git clone https://github.com/Karanv777/Voyage_Voice-Sign_Language_Translator.git
+cd Voyage_Voice-Sign_Language_Translator
 
 ```
 
