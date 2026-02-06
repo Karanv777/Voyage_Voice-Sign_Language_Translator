@@ -1,5 +1,3 @@
----
-
 # Voyage Voice
 
 **Voyage Voice** is a real-time Sign Language-to-Text translation system that bridges the communication gap for the hearing and speech-impaired. Using Computer Vision and Deep Learning, the application captures hand landmarks and translates gestures into meaningful text and speech in real-time.
